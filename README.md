@@ -1,2 +1,4 @@
-# libaray-management-system
-A simple library management system by using python, MYSQL and Tkinter.
+## Libaray Management System
+A simple Library System by Using.
+* Python 3
+* SQLite
