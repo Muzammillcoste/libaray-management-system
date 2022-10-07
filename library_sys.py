@@ -38,11 +38,11 @@ def system():
         elif user_input=='3':
                 books=database.get_all_book(connection)
                 for book in books:
-                    print(f'Book ID:{book[0]}, Book Name:{book[1]}, Shelf No:{book[2]}')
+                    print(f'Book ID:{book[0]}, Book Name:{book[1]}, Shelf No:{book[2]}\n')
         elif user_input=='4':
                 members=database.get_all_member(connection)
                 for member in members:
-                    print(f' Name:{member[1]}, Member ID:{member[2]}, Book ID:{member[3]}, Book Name:{member[4]}, Issue Date:{member[5]}, Received Date:{member[6]} ')
+                    print(f' Name:{member[1]}, Member ID:{member[2]}, Book ID:{member[3]}, Book Name:{member[4]}, Issue Date:{member[5]}, Received Date:{member[6]}\n')
                     
         elif user_input=='5':
             name=input('Enter name: ')
