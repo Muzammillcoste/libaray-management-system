@@ -11,9 +11,9 @@ A simple Library System by Using.
 
 * Test Case 2
 
-<a href="https://ibb.co/BrzL8xk"><img src="https://i.ibb.co/gPjyspY/l1.png" alt="l1" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/x2jk06r/l2.png" alt="l2" border="0"></a>
 
 * Test Case 3
 
-<a href="https://ibb.co/KjQrpbK"><img src="https://i.ibb.co/JRbswm3/l3.png" alt="l3" border="0"></a>
+<a href="https://ibb.co/2NmLXfk"><img src="https://i.ibb.co/VmrhXPq/l1.png" alt="l1" border="0"></a>>
 
